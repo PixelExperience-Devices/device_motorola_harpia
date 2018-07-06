@@ -40,5 +40,9 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 11775377408 # 11499392 * 1024 mmcblk0p42
 # Power
 TARGET_POWERHAL_HEADER_PATH := $(DEVICE_PATH)/power
 
+# TextClassifier smart selection model files
+PRODUCT_PACKAGES += \
+	textclassifier.smartselection.bundle1
+
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
