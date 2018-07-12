@@ -1,0 +1,32 @@
+[
+  {
+    "remote": "github",
+    "repository": "PixelExperience-Devices/kernel_harpia_msm8916",
+    "target_path": "kernel/motorola/msm8916",
+    "branch": "oreo-mr1-harpia"
+  },
+  {
+    "remote": "github",
+    "repository": "PixelExperience-Devices/device_motorola_msm8916-common",
+    "target_path": "device/motorola/msm8916-common",
+    "branch": "oreo-mr1-harpia"
+  },
+  {
+    "remote": "github",
+    "repository": "PixelExperience-Devices/vendor_harpia",
+    "target_path": "vendor/motorola",
+    "branch": "oreo-mr1-harpia"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_external_bson",
+    "target_path": "external/bson",
+    "branch": "lineage-15.1"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat",
+    "branch": "lineage-15.1"
+  }
+]
