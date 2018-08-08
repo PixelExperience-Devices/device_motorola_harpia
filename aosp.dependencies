@@ -1,7 +1,7 @@
 [
   {
     "remote": "github",
-    "repository": "PixelExperience-Devices/kernel_harpia_msm8916",
+    "repository": "PixelExperience-Devices/kernel_motorola_msm8916",
     "target_path": "kernel/motorola/msm8916",
     "branch": "oreo-mr1-harpia"
   },
@@ -13,7 +13,7 @@
   },
   {
     "remote": "github",
-    "repository": "PixelExperience-Devices/vendor_harpia",
+    "repository": "PixelExperience-Devices/vendor_motorola",
     "target_path": "vendor/motorola",
     "branch": "oreo-mr1-harpia"
   },
