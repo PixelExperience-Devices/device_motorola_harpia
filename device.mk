@@ -42,3 +42,8 @@ DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 # Ramdisk
 PRODUCT_PACKAGES += \
     init.target.rc
+
+# QDCM
+PRODUCT_PACKAGES += \
+    pp_calib_data_mipi_mot_video_boe_720p_499.xml \
+    pp_calib_data_mipi_mot_video_tianma_720p_499.xml
