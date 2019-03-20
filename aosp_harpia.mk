@@ -26,6 +26,7 @@ TARGET_BOOT_ANIMATION_RES := 720
 
 TARGET_GAPPS_ARCH := arm
 CUSTOM_BUILD_TYPE := OFFICIAL
+TARGET_USE_OLD_SOUND_PICKER := true
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := harpia
